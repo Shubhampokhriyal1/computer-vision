@@ -2,11 +2,11 @@ import cv2
 import numpy as np
 import math
 import datetime
-from clockimg import creatcir
-from clockimg import connectedLines,creathand
-from clockimg import dot
-from clockimg import line
-from clockimg import connectParallel
+from clockfunction import creatcir
+from clockfunction import connectedLines,creathand
+from clockfunction import dot
+from clockfunction import line
+from clockfunction import connectParallel
 outer = []
 hrs=[]
 hrsout=[]
